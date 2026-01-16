@@ -1,1 +1,6 @@
-# osTicket-Helpdesk-Configuration
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+<h1>osTicket: Helpdesk Configuration</h1>
+Post-installation setup of osTicket Helpdesk system, demonstrating configuration of roles, departments, teams, SLA policies, and help topics.<br />
