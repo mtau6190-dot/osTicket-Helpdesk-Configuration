@@ -87,6 +87,18 @@ Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, Business Hours): Co
   - Value: By enforcing SLAs, organizations can track compliance, improve customer satisfaction, and demonstrate reliability in handling support requests.
 </p>
 
+<h3>1.7 Configuring Help Topics (SLA)</h3>
+<img width="1192" height="521" alt="image" src="https://github.com/user-attachments/assets/b82547cc-711d-444f-9e7b-e5f7d94699e5" />
+<img width="1192" height="856" alt="image" src="https://github.com/user-attachments/assets/4e731483-6987-4799-827e-a01cc8d3e047" />
+
+Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other**: Configured under *Admin Panel → Manage → Help Topics* to guide users when creating tickets.  
+  - What: Help Topics are predefined categories that users select when submitting a ticket. They act as a roadmap, automatically directing issues to the right department or SLA policy.  
+  - Why: They simplify the ticket creation process for end users, reduce confusion, and ensure tickets are categorized correctly from the start. This improves efficiency by routing issues to the right agents and helps IT teams prioritize based on topic severity.  
+  - Value: Well‑defined Help Topics mirror real‑world IT support practices, where categorization is critical for fast resolution, workload management, and clear reporting metrics.
+
+
+
+
 
 
 
