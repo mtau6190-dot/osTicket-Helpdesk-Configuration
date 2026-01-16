@@ -80,10 +80,11 @@ Karen Colman: Added under Agent Panel → Users → Add New to represent registe
 <img width="1191" height="531" alt="image" src="https://github.com/user-attachments/assets/3885936f-1ae8-421d-b7c7-4f483cd6520f" />
 
 <p>
-- *ev-A (1 hour, 24/7)**, **Sev-B (4 hours, 24/7)**, **Sev-C (8 hours, Business Hours)**: Configured under *Admin Panel → Manage → SLA* to define response and resolution timelines.  
-  - **What:** SLAs set rules for how quickly tickets must be acknowledged and resolved based on severity. Each SLA includes a grace period (time allowed before escalation) and a schedule (24/7 or business hours).  
-  - **Why:** SLAs ensure accountability and consistency in support operations. They help prioritize critical issues (e.g., outages) over routine requests, align IT support with business needs, and provide measurable performance standards.  
-  - **Value:** By enforcing SLAs, organizations can track compliance, improve customer satisfaction, and demonstrate reliability in handling support requests.
+Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, Business Hours): Configured under *Admin Panel → Manage → SLA* to define response and resolution timelines. 
+  
+  - What: SLAs set rules for how quickly tickets must be acknowledged and resolved based on severity. Each SLA includes a grace period (time allowed before escalation) and a schedule (24/7 or business hours).  
+  - Why: SLAs ensure accountability and consistency in support operations. They help prioritize critical issues (e.g., outages) over routine requests, align IT support with business needs, and provide measurable performance standards.  
+  - Value: By enforcing SLAs, organizations can track compliance, improve customer satisfaction, and demonstrate reliability in handling support requests.
 </p>
 
 
