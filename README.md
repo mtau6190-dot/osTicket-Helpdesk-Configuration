@@ -48,8 +48,10 @@ Post-installation setup of osTicket Helpdesk system, demonstrating configuration
 
 <h3>1.3 Configuring Teams</h3>
 <img width="1197" height="371" alt="image" src="https://github.com/user-attachments/assets/1bc02cac-0adf-4a6d-894b-83d224e712a5" />
+<img width="1192" height="410" alt="image" src="https://github.com/user-attachments/assets/3a6b8839-f8e2-492e-96bb-72165a13d12d" />
 
-<p>Online Banking: Created under *Admin Panel → Agents → Teams* to bring together agents from different departments into a single working group.  
+<p>Online Banking: Created under *Admin Panel → Agents → Teams* to bring together agents from different departments into a single working group.
+  
   - **What:** A team is a cross‑department collection of agents who collaborate on specific ticket categories.  
   - **Why:** Teams improve flexibility by allowing agents with diverse skills to work jointly on specialized issues (e.g., online banking problems), ensuring faster resolution and better coverage than relying on a single department alone.</p>
 
