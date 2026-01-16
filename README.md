@@ -56,3 +56,25 @@ Post-installation setup of osTicket Helpdesk system, demonstrating configuration
   - **Why:** Teams improve flexibility by allowing agents with diverse skills to work jointly on specialized issues (e.g., online banking problems), ensuring faster resolution and better coverage than relying on a single department alone.</p>
 
 
+<h3>1.3 Configuring Agents</h3>
+<img width="1192" height="458" alt="image" src="https://github.com/user-attachments/assets/7e441122-5a13-4cd9-a02e-8f1f483babab" />
+<img width="1195" height="497" alt="image" src="https://github.com/user-attachments/assets/24f91e35-1ee0-471d-b265-e256064a7b78" />
+
+- Jane (Dept: SysAdmins)** and John (Dept: Support): Added under *Admin Panel → Agents → Add New* to define the staff responsible for handling tickets.  
+  - What: Agents are the helpdesk workers who log in to the system, view assigned tickets, and resolve user issues. Each agent is linked to a department or team to control ticket visibility and responsibilities.  
+  - Why:Configuring agents ensures that support requests are routed to the right people. It establishes accountability, organizes workload distribution, and mirrors real-world IT support operations where staff are assigned based on expertise.
+ 
+<h3>1.4 Configuring Users(Customers) in Agent Panel</h3>
+<img width="1201" height="535" alt="image" src="https://github.com/user-attachments/assets/d042b5cf-fac1-4c2d-bbef-47d2724e58d3" />
+<img width="1192" height="462" alt="image" src="https://github.com/user-attachments/assets/d2f266c0-07d3-4433-8bfa-ab5c36a39451" />
+
+<p>
+Karen Colman: Added under Agent Panel → Users → Add New to represent registered customers in the system. 
+  
+  - What: A “User” in osTicket is a defined customer profile with stored contact details, ticket history, and association to specific issues.  
+  - Why: Unlike anonymous ticket creators, registered users provide continuity and accountability. Their tickets can be tracked over time, linked to past requests, and managed more effectively. This improves customer support quality by giving agents context about the user’s history and needs.
+</p>
+
+
+
+
