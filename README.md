@@ -7,7 +7,7 @@ Post-installation setup of osTicket Helpdesk system, demonstrating configuration
 <br>
 <h2>Skills Demonstrated:</h2>
 
-- Help desk system deployment
+- Help Desk system deployment
 - Role-based access control
-- SLA management
-- User & agent configuration
+- SLA Management
+- User & Agent configuration
