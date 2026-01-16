@@ -100,6 +100,19 @@ Business Critical Outage, Personal Computer Issues, Equipment Request, Password 
 
 
 
+<h2>Outcome Summary</h2>
+
+<h3>Through this post-installation configuration of osTicket, the helpdesk system was transformed into a structured, professional support environment:</h3>
+
+- Roles: Established a *Super Admin* role to centralize full administrative control and separate permissions from standard agents.  
+- Departments: Created the *SysAdmins* department to organize ticket visibility and ensure issues are routed to the right technical group.  
+- Teams: Configured the *Online Banking* team to enable cross-department collaboration on specialized issues, improving flexibility and efficiency.  
+- End Users: Allowed customers to create tickets directly, ensuring faster reporting, accountability, and improved satisfaction.  
+- Agents: Added agents (*Jane* and *John*) to represent support staff, linking them to departments for workload distribution and accountability.  
+- Users (Customers): Registered customers (*Karen*) to provide continuity, ticket history, and structured communication beyond anonymous submissions.  
+- SLA Policies: Defined *Sev-A, Sev-B, and Sev-C* agreements to enforce response times, prioritize critical issues, and align IT support with business needs.  
+- Help Topics: Configured categories (e.g., *Business Critical Outage, Password Reset*) to guide users, simplify ticket creation, and ensure proper routing.
+
 
 
 
